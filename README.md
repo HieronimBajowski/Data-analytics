@@ -1,5 +1,5 @@
 # Data-analytics
-# this repository is for me to mark what I have already done and learned
+# This repository is for me to mark what I have already done and learned
 
 Numpy 
 
